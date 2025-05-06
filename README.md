@@ -42,3 +42,33 @@
    ```bash
    git clone https://github.com/yourusername/DevSphere.git
    cd DevSphere
+2. Install dependencies for both frontend and backend:
+   ```bash
+   npm install
+   cd server && npm install
+   cd ..
+3. Set up environment variables:
+  Create .env in root:
+  VITE_API_BASE_URL=http://localhost:5000
+  Create .env in server/:
+
+  MONGODB_URI=your_mongodb_connection_string
+  PORT=5000
+  CONTACT_EMAIL=your@email.com
+
+4. Run the development server:
+   ```bash
+   npm run dev
+6. Open http://localhost:3000 in your browser.
+
+🤝 Contributing
+While this is a personal portfolio, constructive feedback is welcome!
+Please open an issue first to discuss any changes.
+
+📬 Contact
+For professional inquiries:
+📧 afomiyaketsella12@gmail.com
+🔗 [yourwebsite.com](https://github.com/afom12/My-Portfolio.git)
+💼 [LinkedIn](https://www.linkedin.com/in/afom12/)
+
+⭐ If you find this project useful, please star it on GitHub! ⭐
