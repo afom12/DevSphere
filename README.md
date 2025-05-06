@@ -1,7 +1,5 @@
 # DevSphere - Developer Portfolio Platform 🌐
 
-![Project Screenshot](/public/screenshot.png) <!-- Add your screenshot path -->
-
 **A modern, full-stack developer portfolio showcasing projects, technical blog, and contact information.**
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
