@@ -68,7 +68,7 @@ Please open an issue first to discuss any changes.
 📬 Contact
 For professional inquiries:
 📧 afomiyaketsella12@gmail.com
-🔗 [yourwebsite.com](https://github.com/afom12/My-Portfolio.git)
+🔗 [https://afom12.github.io/my-portfolio/](https://afom12.github.io/my-portfolio/)
 💼 [LinkedIn](https://www.linkedin.com/in/afom12/)
 
 ⭐ If you find this project useful, please star it on GitHub! ⭐
