@@ -1,5 +1,8 @@
 # DevSphere - Developer Portfolio Platform 🌐
 
+![Screenshot 2025-05-06 134731](https://github.com/user-attachments/assets/2e0ea6b2-1b89-48b5-b773-7165de3afc93)
+![Screenshot 2025-05-06 135028](https://github.com/user-attachments/assets/a9d93d88-2eb1-421f-8d01-17ec716e3594)
+
 **A modern, full-stack developer portfolio showcasing projects, technical blog, and contact information.**
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-pink.svg)](LICENSE)
