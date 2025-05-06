@@ -71,4 +71,6 @@ For professional inquiries:
 🔗 [https://afom12.github.io/my-portfolio/](https://afom12.github.io/my-portfolio/)
 💼 [LinkedIn](https://www.linkedin.com/in/afom12/)
 
+[![Live Demo](https://img.shields.io/badge/demo-live-green)]([![Netlify Status](https://api.netlify.com/api/v1/badges/50a173d2-da6d-4793-b40b-7d886e38a0be/deploy-status)](https://app.netlify.com/sites/kaleidoscopic-speculoos-4c52c3/deploys))
+
 ⭐ If you find this project useful, please star it on GitHub! ⭐
