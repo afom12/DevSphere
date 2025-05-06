@@ -2,10 +2,10 @@
 
 **A modern, full-stack developer portfolio showcasing projects, technical blog, and contact information.**
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-brightgreen)](https://www.mongodb.com/)
+[![GitHub license](https://img.shields.io/badge/license-MIT-pink.svg)](LICENSE)
+[![React](https://img.shields.io/badge/React-18.2.0-pink)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-pink)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-brightpink)](https://www.mongodb.com/)
 
 ## 🚀 Features
 
