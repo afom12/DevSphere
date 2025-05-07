@@ -61,7 +61,7 @@
 4. Run the development server:
    ```bash
    npm run dev
-6. Open http://localhost:3000 in your browser.
+6. Open http://localhost:5000 in your browser.
 
 🤝 Contributing
 While this is a personal portfolio, constructive feedback is welcome!
