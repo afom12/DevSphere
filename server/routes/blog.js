@@ -12,7 +12,6 @@ router.get('/', async (req, res) => {
   }
 });
 
-// POST a new blog post
 router.post('/', async (req, res) => {
   const { title, content, author, tags } = req.body;
 
