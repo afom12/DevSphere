@@ -2,7 +2,6 @@ const express = require('express');
 const router = express.Router();
 const BlogPost = require('../models/BlogPost');
 
-// GET all blog posts
 router.get('/', async (req, res) => {
   try {
     const posts = await BlogPost.find().sort({ createdAt: -1 });
