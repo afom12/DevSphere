@@ -11,7 +11,6 @@ router.get('/', async (req, res) => {
   }
 });
 
-// POST a new project
 router.post('/', async (req, res) => {
   const { title, description, link, tags } = req.body;
 
