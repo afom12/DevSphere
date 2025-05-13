@@ -1,4 +1,4 @@
-jnmmbnmbhjg
+jnmmb
 
 const mongoose = require('mongoose');
 
